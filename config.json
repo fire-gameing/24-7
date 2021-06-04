@@ -1,0 +1,7 @@
+{
+  "TOKEN": "BOT_TOKEN_HERE",
+  "PREFIX": "BOT_PREFIX_HERE",
+  "approveemoji": "✅",
+  "denyemoji": "🚫",
+  "erroremoji": "️❗"
+}
